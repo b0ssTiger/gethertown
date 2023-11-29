@@ -5,7 +5,6 @@ Unity 2기 개인 과제 제출
 
 캐릭터가 안움직인다..
 
-Assets\Scripts\Contollers\TopDownCharaterController.cs(9,34): warning CS0067: The event 'TopDownCharaterController.OnMoveEvent' is never used
 
 왜 가져오지 못하는가? 
 
